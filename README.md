@@ -6,7 +6,7 @@ It performs some simple CRUD operations on Users and thier posts.
 
 <br>
 
-**Programming Language** - Java 
+**Programming Language** - Java
 
 **Framework** - Hibernate
 
@@ -49,15 +49,17 @@ It performs some simple CRUD operations on Users and thier posts.
 ### Main Files
 
 **Data Access Object Files**
-sample\src\main\java\com\padmajeet\sample\dao\PostsDAO
-sample\src\main\java\com\padmajeet\sample\dao\UserDAO
+* sample\src\main\java\com\padmajeet\sample\dao\PostsDAO
+* sample\src\main\java\com\padmajeet\sample\dao\UserDAO
 
 **Services**
-sample\src\main\java\com\padmajeet\sample\service\PostsService
-sample\src\main\java\com\padmajeet\sample\service\UserService
+* sample\src\main\java\com\padmajeet\sample\service\PostsService
+* sample\src\main\java\com\padmajeet\sample\service\UserService
 
 **Models**
-sample\src\main\java\com\padmajeet\sample\model\Posts
-sample\src\main\java\com\padmajeet\sample\model\User
+* sample\src\main\java\com\padmajeet\sample\model\Posts
+* sample\src\main\java\com\padmajeet\sample\model\User
 
+### Screenshots
 
+All the screenshots for basic operations are available in **cubereum_assignment\screenshots** folder
