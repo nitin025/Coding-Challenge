@@ -6,9 +6,12 @@ It performs some simple CRUD operations on Users and thier posts.
 
 <br>
 
-**Programming Language** - Java
+**Programming Language** - Java 
+
 **Framework** - Hibernate
+
 **Database** - MySQL
+
 **Server** - Apache Tomcat or TomEE
 
 
